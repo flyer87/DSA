@@ -1,0 +1,6 @@
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\bin\Debug\_05.RemoveNegatives.exe.config
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\bin\Debug\_05.RemoveNegatives.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\bin\Debug\_05.RemoveNegatives.pdb
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\obj\Debug\05. RemoveNegatives.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\obj\Debug\_05.RemoveNegatives.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\05. RemoveNegatives\obj\Debug\_05.RemoveNegatives.pdb

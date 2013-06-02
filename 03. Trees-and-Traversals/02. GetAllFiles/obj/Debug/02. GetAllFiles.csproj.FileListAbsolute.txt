@@ -1,0 +1,6 @@
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\bin\Debug\_02.GetAllFiles.exe.config
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\obj\Debug\02. GetAllFiles.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\bin\Debug\_02.GetAllFiles.exe
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\bin\Debug\_02.GetAllFiles.pdb
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\obj\Debug\_02.GetAllFiles.exe
+E:\TELERIK\HW\DSA\03. Trees-and-Traversals\02. GetAllFiles\obj\Debug\_02.GetAllFiles.pdb

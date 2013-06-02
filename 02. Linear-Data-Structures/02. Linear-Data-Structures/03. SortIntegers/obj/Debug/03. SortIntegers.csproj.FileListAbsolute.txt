@@ -1,0 +1,5 @@
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\03. SortIntegers\bin\Debug\_03.SortIntegers.exe.config
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\03. SortIntegers\bin\Debug\_03.SortIntegers.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\03. SortIntegers\bin\Debug\_03.SortIntegers.pdb
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\03. SortIntegers\obj\Debug\_03.SortIntegers.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\03. SortIntegers\obj\Debug\_03.SortIntegers.pdb
