@@ -1,6 +1,0 @@
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\bin\Debug\_02.Linear_Data_Structures.exe.config
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\bin\Debug\_02.Linear_Data_Structures.exe
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\bin\Debug\_02.Linear_Data_Structures.pdb
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\obj\Debug\02. Linear-Data-Structures.csprojResolveAssemblyReference.cache
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\obj\Debug\_02.Linear_Data_Structures.exe
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\obj\Debug\_02.Linear_Data_Structures.pdb
