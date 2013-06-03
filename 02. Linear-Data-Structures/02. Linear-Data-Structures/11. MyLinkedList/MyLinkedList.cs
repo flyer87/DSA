@@ -4,8 +4,9 @@ using System.Collections.Generic;
 internal class MyLinkedList<T>
 {
     private ListItem<T> head = null;
+    private int count;
 
-    public int Count { get { return 2; } }
+    public int Count { get { return count; } }
 
     public void AddFirst(T item)
     {
@@ -20,6 +21,8 @@ internal class MyLinkedList<T>
             newListItem.NextItem = head;
             head = newListItem;
         }
+
+        count++;
     }
 
     public void AddLast(T item)
@@ -40,6 +43,8 @@ internal class MyLinkedList<T>
 
             currentItem.NextItem = newListItem;
         }
+
+        count++;
     }
 
     public void RemoveFirst()
@@ -47,6 +52,7 @@ internal class MyLinkedList<T>
         if (head != null)
         {
             this.head = head.NextItem;
+            count--;
         }
     }
 
@@ -78,6 +84,7 @@ internal class MyLinkedList<T>
             }
 
             currentItem.NextItem = null;
+            count--;
         }
     }
 

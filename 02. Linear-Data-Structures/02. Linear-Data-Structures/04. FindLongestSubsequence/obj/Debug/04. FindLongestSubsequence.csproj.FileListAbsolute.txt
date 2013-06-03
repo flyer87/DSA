@@ -4,3 +4,9 @@ E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. Find
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\04. FindLongestSubsequence.csprojResolveAssemblyReference.cache
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\_04.FindLongestSubsequence.exe
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\_04.FindLongestSubsequence.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\bin\Debug\_04.FindLongestSubsequence.exe.config
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\bin\Debug\_04.FindLongestSubsequence.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\bin\Debug\_04.FindLongestSubsequence.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\04. FindLongestSubsequence.csprojResolveAssemblyReference.cache
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\_04.FindLongestSubsequence.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\04. FindLongestSubsequence\obj\Debug\_04.FindLongestSubsequence.pdb

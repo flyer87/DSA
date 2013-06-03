@@ -1,6 +1,0 @@
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\bin\Debug\_02.ReverseIntegersUsingStack.exe.config
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\bin\Debug\_02.ReverseIntegersUsingStack.exe
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\bin\Debug\_02.ReverseIntegersUsingStack.pdb
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\obj\Debug\_02.ReverseIntegersUsingStack.exe
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\obj\Debug\_02.ReverseIntegersUsingStack.pdb
-E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. ReverseIntegersUsingStack\obj\Debug\02. ReverseIntegersUsingStack.csprojResolveAssemblyReference.cache

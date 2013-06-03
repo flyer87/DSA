@@ -11,5 +11,6 @@ class Program
         stack.Push(8);
         int number = stack.Pop();
         number = stack.Peak();
+        Console.WriteLine(number);
     }
 }

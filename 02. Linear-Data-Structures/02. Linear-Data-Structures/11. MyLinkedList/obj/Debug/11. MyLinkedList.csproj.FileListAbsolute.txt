@@ -4,3 +4,9 @@ E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLi
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\11. MyLinkedList.csprojResolveAssemblyReference.cache
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\_11.MyLinkedList.exe
 E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\_11.MyLinkedList.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\bin\Debug\_11.MyLinkedList.exe.config
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\_11.MyLinkedList.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\_11.MyLinkedList.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\bin\Debug\_11.MyLinkedList.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\bin\Debug\_11.MyLinkedList.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\11. MyLinkedList\obj\Debug\11. MyLinkedList.csprojResolveAssemblyReference.cache
