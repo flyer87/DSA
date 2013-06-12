@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CountOccurrences", "01. CountOccurrences\01. CountOccurrences.csproj", "{1E28C48A-0369-496B-A4BA-C097776A1727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. OddNumberOfStrings", "02. OddNumberOfStrings\02. OddNumberOfStrings.csproj", "{7EBE81EF-094E-4589-923A-181B348EF77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. WordCounterInText", "03. WordCounterInText\03. WordCounterInText.csproj", "{DA3F7D88-B790-4586-9B23-911EE474F929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. HashTable", "04. HashTable\04. HashTable.csproj", "{4D87A435-FC15-4157-867F-6A4743761593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E28C48A-0369-496B-A4BA-C097776A1727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E28C48A-0369-496B-A4BA-C097776A1727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E28C48A-0369-496B-A4BA-C097776A1727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E28C48A-0369-496B-A4BA-C097776A1727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBE81EF-094E-4589-923A-181B348EF77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBE81EF-094E-4589-923A-181B348EF77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBE81EF-094E-4589-923A-181B348EF77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBE81EF-094E-4589-923A-181B348EF77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3F7D88-B790-4586-9B23-911EE474F929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3F7D88-B790-4586-9B23-911EE474F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3F7D88-B790-4586-9B23-911EE474F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3F7D88-B790-4586-9B23-911EE474F929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D87A435-FC15-4157-867F-6A4743761593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D87A435-FC15-4157-867F-6A4743761593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D87A435-FC15-4157-867F-6A4743761593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D87A435-FC15-4157-867F-6A4743761593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\bin\Debug\_01.CountOccurrences.exe.config
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\obj\Debug\01. CountOccurrences.csprojResolveAssemblyReference.cache
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\bin\Debug\_01.CountOccurrences.exe
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\bin\Debug\_01.CountOccurrences.pdb
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\obj\Debug\_01.CountOccurrences.exe
+J:\Yumer\Dropbox\Telerik\dsa\Речници, хеш-таблици и множества\Dictionariy-HashTables-Sets\01. CountOccurrences\obj\Debug\_01.CountOccurrences.pdb
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\01. CountOccurrences\bin\Debug\_01.CountOccurrences.exe.config
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\01. CountOccurrences\obj\Debug\_01.CountOccurrences.exe
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\01. CountOccurrences\obj\Debug\_01.CountOccurrences.pdb

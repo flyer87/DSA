@@ -1,0 +1,12 @@
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.exe.config
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.pdb
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\06. RemoveNumberOccursOddTime.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\_06.RemoveNumberOccursOddTime.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\_06.RemoveNumberOccursOddTime.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.exe.config
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\bin\Debug\_06.RemoveNumberOccursOddTime.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\06. RemoveNumberOccursOddTime.csprojResolveAssemblyReference.cache
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\_06.RemoveNumberOccursOddTime.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\06. RemoveNumberOccursOddTime\obj\Debug\_06.RemoveNumberOccursOddTime.pdb

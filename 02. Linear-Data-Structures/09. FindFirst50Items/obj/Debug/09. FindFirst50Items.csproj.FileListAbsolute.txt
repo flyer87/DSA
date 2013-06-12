@@ -1,0 +1,12 @@
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.exe.config
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\09. FindFirst50Items.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.pdb
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\_09.FindFirst50Items.exe
+E:\TELERIK\HW\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\_09.FindFirst50Items.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.exe.config
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\bin\Debug\_09.FindFirst50Items.pdb
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\09. FindFirst50Items.csprojResolveAssemblyReference.cache
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\_09.FindFirst50Items.exe
+J:\Yumer\TELERIK\DSA\02. Linear-Data-Structures\02. Linear-Data-Structures\09. FindFirst50Items\obj\Debug\_09.FindFirst50Items.pdb

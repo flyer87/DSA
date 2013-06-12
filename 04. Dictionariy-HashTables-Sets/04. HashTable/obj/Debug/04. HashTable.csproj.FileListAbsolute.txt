@@ -1,0 +1,6 @@
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\bin\Debug\_04.HashTable.exe.config
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\bin\Debug\_04.HashTable.exe
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\bin\Debug\_04.HashTable.pdb
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\obj\Debug\04. HashTable.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\obj\Debug\_04.HashTable.exe
+E:\TELERIK\HW\DSA\04. Dictionariy-HashTables-Sets\04. HashTable\obj\Debug\_04.HashTable.pdb
