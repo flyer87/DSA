@@ -1,0 +1,8 @@
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\bin\Debug\_02.Articles.exe.config
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\bin\Debug\_02.Articles.exe
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\bin\Debug\_02.Articles.pdb
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\bin\Debug\PowerCollections.dll
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\bin\Debug\PowerCollections.xml
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\obj\Debug\02. Articles.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\obj\Debug\_02.Articles.exe
+E:\TELERIK\HW\DSA\06. Data-Structures-Efficiency\02. Articles\obj\Debug\_02.Articles.pdb

@@ -6,5 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
+        HashTable<string, int> hashTable = new HashTable<string, int>();
     }
 }

@@ -1,0 +1,8 @@
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\bin\Debug\_02.CollectionOfProducts.exe.config
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\bin\Debug\_02.CollectionOfProducts.exe
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\bin\Debug\_02.CollectionOfProducts.pdb
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\bin\Debug\PowerCollections.dll
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\bin\Debug\PowerCollections.xml
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\obj\Debug\02. CollectionOfProducts.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\obj\Debug\_02.CollectionOfProducts.exe
+E:\TELERIK\HW\DSA\05. Advanced-Data-Structures\02. CollectionOfProducts\obj\Debug\_02.CollectionOfProducts.pdb

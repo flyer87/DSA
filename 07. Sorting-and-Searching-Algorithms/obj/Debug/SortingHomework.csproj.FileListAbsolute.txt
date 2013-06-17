@@ -1,0 +1,6 @@
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\bin\Debug\SortingHomework.exe.config
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\bin\Debug\SortingHomework.exe
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\bin\Debug\SortingHomework.pdb
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\obj\Debug\SortingHomework.exe
+E:\TELERIK\HW\DSA\07. Sorting-and-Searching-Algorithms\obj\Debug\SortingHomework.pdb
