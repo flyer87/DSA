@@ -1,0 +1,6 @@
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\bin\Debug\_01.NestedLoops.exe.config
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\bin\Debug\_01.NestedLoops.exe
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\bin\Debug\_01.NestedLoops.pdb
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\obj\Debug\01. NestedLoops.csprojResolveAssemblyReference.cache
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\obj\Debug\_01.NestedLoops.exe
+E:\TELERIK\HW\DSA\08. Recursion\01. NestedLoops\obj\Debug\_01.NestedLoops.pdb
