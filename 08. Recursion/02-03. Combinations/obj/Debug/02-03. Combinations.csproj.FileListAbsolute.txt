@@ -4,3 +4,9 @@ E:\TELERIK\HW\DSA\08. Recursion\02-03. Combinations\bin\Debug\_02_03.Combination
 E:\TELERIK\HW\DSA\08. Recursion\02-03. Combinations\obj\Debug\02-03. Combinations.csprojResolveAssemblyReference.cache
 E:\TELERIK\HW\DSA\08. Recursion\02-03. Combinations\obj\Debug\_02_03.Combinations.exe
 E:\TELERIK\HW\DSA\08. Recursion\02-03. Combinations\obj\Debug\_02_03.Combinations.pdb
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\bin\Debug\_02_03.Combinations.exe.config
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\obj\Debug\_02_03.Combinations.exe
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\obj\Debug\_02_03.Combinations.pdb
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\bin\Debug\_02_03.Combinations.exe
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\bin\Debug\_02_03.Combinations.pdb
+J:\Yumer\TELERIK\DSA\08. Recursion\02-03. Combinations\obj\Debug\02-03. Combinations.csprojResolveAssemblyReference.cache

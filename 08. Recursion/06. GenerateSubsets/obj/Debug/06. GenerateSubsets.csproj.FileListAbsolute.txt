@@ -1,0 +1,5 @@
+J:\Yumer\TELERIK\DSA\08. Recursion\06. GenerateSubsets\bin\Debug\_06.GenerateSubsets.exe.config
+J:\Yumer\TELERIK\DSA\08. Recursion\06. GenerateSubsets\bin\Debug\_06.GenerateSubsets.exe
+J:\Yumer\TELERIK\DSA\08. Recursion\06. GenerateSubsets\bin\Debug\_06.GenerateSubsets.pdb
+J:\Yumer\TELERIK\DSA\08. Recursion\06. GenerateSubsets\obj\Debug\_06.GenerateSubsets.exe
+J:\Yumer\TELERIK\DSA\08. Recursion\06. GenerateSubsets\obj\Debug\_06.GenerateSubsets.pdb

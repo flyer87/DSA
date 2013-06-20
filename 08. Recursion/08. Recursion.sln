@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. NestedLoops", "01. NestedLoops\01. NestedLoops.csproj", "{BCD2D494-9B2C-49DA-B341-FD1794D72BC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-03. Combinations", "02-03. Combinations\02-03. Combinations.csproj", "{49BE6D54-47B0-479D-A0CD-A7EA537E8915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. GenerateSubsets", "06. GenerateSubsets\06. GenerateSubsets.csproj", "{EEF987A2-DDC2-467F-BA74-FF35B58A0509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 08. PathsInLabirinth", "07. 08. PathsInLabirinth\07. 08. PathsInLabirinth.csproj", "{002E9E5D-CEB8-4649-86A5-2692DF4663A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,14 @@ Global
 		{49BE6D54-47B0-479D-A0CD-A7EA537E8915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49BE6D54-47B0-479D-A0CD-A7EA537E8915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49BE6D54-47B0-479D-A0CD-A7EA537E8915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF987A2-DDC2-467F-BA74-FF35B58A0509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF987A2-DDC2-467F-BA74-FF35B58A0509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF987A2-DDC2-467F-BA74-FF35B58A0509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF987A2-DDC2-467F-BA74-FF35B58A0509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002E9E5D-CEB8-4649-86A5-2692DF4663A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002E9E5D-CEB8-4649-86A5-2692DF4663A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002E9E5D-CEB8-4649-86A5-2692DF4663A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002E9E5D-CEB8-4649-86A5-2692DF4663A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
